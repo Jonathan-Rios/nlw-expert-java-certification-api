@@ -21,9 +21,9 @@
 
 <div align="center">
 
-![Last commit](https://img.shields.io/github/last-commit/Jonathan-Rios/nlwia-upload-ia-web?color=4DA1CD 'Last commit') &nbsp;
-![Repo size](https://img.shields.io/github/repo-size/Jonathan-Rios/nlwia-upload-ia-web?color=4DA1CD 'Repo size') &nbsp;
-![Languages](https://img.shields.io/github/languages/count/Jonathan-Rios/nlwia-upload-ia-web?color=4DA1CD 'Languages') &nbsp;
+![Last commit](https://img.shields.io/github/last-commit/Jonathan-Rios/nlw-expert-java-certification-api?color=4DA1CD 'Last commit') &nbsp;
+![Repo size](https://img.shields.io/github/repo-size/Jonathan-Rios/nlw-expert-java-certification-api?color=4DA1CD 'Repo size') &nbsp;
+![Languages](https://img.shields.io/github/languages/count/Jonathan-Rios/nlw-expert-java-certification-api?color=4DA1CD 'Languages') &nbsp;
 
 </div>
 
@@ -69,9 +69,9 @@ Certifique-se de ter o Java e o Maven instalados em sua máquina.
 1. Clone o projeto do repositório.
 
     ```bash
-    $ git clone https://github.com/seu-usuario/seu-projeto.git
+    $ git clone https://github.com/seu-usuario/nlw-expert-java-certification-api.git
 
-    $ cd seu-projeto
+    $ cd nlw-expert-java-certification-api
     ```
 
 2. Execute a API Spring Boot.
